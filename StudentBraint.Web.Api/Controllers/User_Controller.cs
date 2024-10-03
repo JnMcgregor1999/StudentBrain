@@ -58,7 +58,7 @@ namespace StudentBrain.Wep.Api.Controllers
                 return BadRequest(ex);
             }
         }
-        
+
         /// <summary>
         /// Nombre: ObtenerUser
         /// Descripcion: Metodo utilizado para ontener una lista de modelos USER y retornar un objeto datatable
@@ -67,6 +67,8 @@ namespace StudentBrain.Wep.Api.Controllers
         /// </summary>
         /// <param name="message"></param>
         /// <returns></returns>
+        [Route("Get")]
+        [HttpPost]
         public async Task<IActionResult> Get([FromBody] Common.User model)
         {
             try
@@ -99,7 +101,7 @@ namespace StudentBrain.Wep.Api.Controllers
                 return BadRequest(ex);
             }
         }
-        
+
         /// <summary>
         /// Nombre: GuardarUser
         /// Descripcion: Metodo utilizado para ontener una lista de modelos USER y retornar un objeto datatable
@@ -108,6 +110,8 @@ namespace StudentBrain.Wep.Api.Controllers
         /// </summary>
         /// <param name="message"></param>
         /// <returns></returns>
+        [Route("Save")]
+        [HttpPost]
         public async Task<IActionResult> Save([FromBody] Common.User model)
         {
             try

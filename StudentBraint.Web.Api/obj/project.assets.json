@@ -2576,11 +2576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBraint.Web.Api\\StudentBraint.Web.Api.csproj",
+      "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBraint.Web.Api\\StudentBraint.Web.Api.csproj",
       "projectName": "StudentBraint.Web.Api",
-      "projectPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBraint.Web.Api\\StudentBraint.Web.Api.csproj",
+      "projectPath": "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBraint.Web.Api\\StudentBraint.Web.Api.csproj",
       "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBraint.Web.Api\\obj\\",
+      "outputPath": "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBraint.Web.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2602,14 +2602,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBrain.BusinessLogic\\StudentBrain.BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBrain.BusinessLogic\\StudentBrain.BusinessLogic.csproj"
+            "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBrain.BusinessLogic\\StudentBrain.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBrain.BusinessLogic\\StudentBrain.BusinessLogic.csproj"
             },
-            "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBrain.Common\\StudentBrain.Common.csproj": {
-              "projectPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBrain.Common\\StudentBrain.Common.csproj"
+            "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBrain.Common\\StudentBrain.Common.csproj": {
+              "projectPath": "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBrain.Common\\StudentBrain.Common.csproj"
             },
-            "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBrain.Utilities\\StudentBrain.Utilities.csproj": {
-              "projectPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBrain.Utilities\\StudentBrain.Utilities.csproj"
+            "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBrain.Utilities\\StudentBrain.Utilities.csproj": {
+              "projectPath": "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBrain.Utilities\\StudentBrain.Utilities.csproj"
             }
           }
         }

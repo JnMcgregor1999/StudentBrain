@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBrain.Common\\StudentBrain.Common.csproj": {}
+    "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBrain.Common\\StudentBrain.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBrain.Common\\StudentBrain.Common.csproj": {
+    "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBrain.Common\\StudentBrain.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBrain.Common\\StudentBrain.Common.csproj",
+        "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBrain.Common\\StudentBrain.Common.csproj",
         "projectName": "StudentBrain.Common",
-        "projectPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBrain.Common\\StudentBrain.Common.csproj",
+        "projectPath": "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBrain.Common\\StudentBrain.Common.csproj",
         "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBrain.Common\\obj\\",
+        "outputPath": "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBrain.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

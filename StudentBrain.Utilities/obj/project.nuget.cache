@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6lMLR7yK0A4=",
+  "dgSpecHash": "HEbYcWhtb24=",
   "success": true,
-  "projectFilePath": "C:\\Users\\johan\\OneDrive\\Escritorio\\StudentBrain\\StudentBrain.Utilities\\StudentBrain.Utilities.csproj",
+  "projectFilePath": "C:\\Users\\johan\\OneDrive\\Documentos\\Personales\\UTN\\Repositorios\\StudentBrain\\StudentBrain.Utilities\\StudentBrain.Utilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\johan\\.nuget\\packages\\restsharp\\112.0.0\\restsharp.112.0.0.nupkg.sha512"
