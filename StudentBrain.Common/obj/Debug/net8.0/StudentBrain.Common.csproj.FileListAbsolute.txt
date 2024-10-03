@@ -1,0 +1,11 @@
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.Common\bin\Debug\net8.0\StudentBrain.Common.deps.json
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.Common\bin\Debug\net8.0\StudentBrain.Common.dll
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.Common\bin\Debug\net8.0\StudentBrain.Common.pdb
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.Common\obj\Debug\net8.0\StudentBrain.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.Common\obj\Debug\net8.0\StudentBrain.Common.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.Common\obj\Debug\net8.0\StudentBrain.Common.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.Common\obj\Debug\net8.0\StudentBrain.Common.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.Common\obj\Debug\net8.0\StudentBrain.Common.dll
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.Common\obj\Debug\net8.0\refint\StudentBrain.Common.dll
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.Common\obj\Debug\net8.0\StudentBrain.Common.pdb
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.Common\obj\Debug\net8.0\ref\StudentBrain.Common.dll

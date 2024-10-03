@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "StudentBrain.Wep.Api.Controllers.UserController",
+    "Method": "Get",
+    "RelativePath": "api/User",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "StudentBrain.Common.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentBrain.Wep.Api.Controllers.UserController",
+    "Method": "Save",
+    "RelativePath": "api/User",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "StudentBrain.Common.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentBrain.Wep.Api.Controllers.UserController",
+    "Method": "List",
+    "RelativePath": "api/User/List",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "StudentBrain.Common.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

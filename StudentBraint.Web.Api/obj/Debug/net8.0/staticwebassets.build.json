@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2ZsyRnrwrBKqA8/CosoiKfJpDRQNZVvlcmBsfRpdTJc=",
+  "Source": "StudentBraint.Web.Api",
+  "BasePath": "_content/StudentBraint.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

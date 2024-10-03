@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StudentBraint.Web.Api.props" />
+</Project>

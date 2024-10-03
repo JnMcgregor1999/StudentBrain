@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\bin\Debug\net8.0\StudentBrain.DataAccess.deps.json
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\bin\Debug\net8.0\StudentBrain.DataAccess.dll
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\bin\Debug\net8.0\StudentBrain.DataAccess.pdb
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\bin\Debug\net8.0\StudentBrain.Common.dll
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\bin\Debug\net8.0\StudentBrain.Common.pdb
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\obj\Debug\net8.0\StudentBrain.DataAccess.csproj.AssemblyReference.cache
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\obj\Debug\net8.0\StudentBrain.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\obj\Debug\net8.0\StudentBrain.DataAccess.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\obj\Debug\net8.0\StudentBrain.DataAccess.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\obj\Debug\net8.0\StudentBrain.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\obj\Debug\net8.0\StudentB.2F1B41DA.Up2Date
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\obj\Debug\net8.0\StudentBrain.DataAccess.dll
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\obj\Debug\net8.0\refint\StudentBrain.DataAccess.dll
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\obj\Debug\net8.0\StudentBrain.DataAccess.pdb
+C:\Users\johan\OneDrive\Escritorio\StudentBrain\StudentBrain.DataAccess\obj\Debug\net8.0\ref\StudentBrain.DataAccess.dll
